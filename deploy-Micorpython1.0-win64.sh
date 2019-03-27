@@ -37,7 +37,7 @@ echo "Win x64"
 
 # deploy
 cd out
-zip -r -q -9 Scratch3.0_Win32-x64.zip "MicroPython1.0-win32-x64"
+zip -r -q -9 MicroPython1.0_Win32-x64.zip "MicroPython1.0-win32-x64"
 rm -r "MicroPython1.0-win32-x64"
 #zip -r -q -9 Win32-ia32.zip "Scratch3.0-win32-ia32"
 #rm -r "Scratch3.0-win32-ia32"
