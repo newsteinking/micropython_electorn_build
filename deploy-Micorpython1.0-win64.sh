@@ -15,9 +15,9 @@ cd editor
 mkdir micropython-gui
 git clone https://github.com/newsteinking/micropython micropython-gui-source
 cd micropython-gui-source
-npm install > /dev/null 2>&1
-npm run build > /dev/null 2>&1
-cp -r ./build/* ../
+#npm install > /dev/null 2>&1
+#npm run build > /dev/null 2>&1
+cp -r ./* ../
 cd ../
 rm -r -f "micropython-gui-source"
 
