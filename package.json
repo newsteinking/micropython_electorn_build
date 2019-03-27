@@ -1,5 +1,5 @@
 {
-  "name": "scratch3builder",
+  "name": "MicroPythonbuilder",
   "version": "1.0.0",
   "description": "A Program To Package Scratch 3.0",
   "main": "main.js",
